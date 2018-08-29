@@ -19,5 +19,5 @@ Golang Korea에서 주최하는 밋업, 세미나 및 컨퍼런스의 발표 자
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 김부연님 | EOS 블록체인 계정 생성 서비스인 eostart를 Go 언어로 개발한 사례 | [EOS 계정 생성 서비스 eostart.com 개발 사례](slides/201808/make-eostart-service-with-go.pdf) |
 | 이흥섭님 | 한글라이즈 재제작기                                          | [Remake of Hangulize](slides/201808/remake-of-hangulize.pdf) |
-| 김효준님 | AB180에서의 Go 도입기                                        | [Golang on Airbridge Airbloc](slides/201808/golang-on-airbridge-airbloc.pdf) |
+| 김효준님 | ab180에서의 Go 도입기                                        | [Golang on Airbridge Airbloc](slides/201808/golang-on-airbridge-airbloc.pdf) |
 
