@@ -2,6 +2,16 @@
 
 Golang Korea에서 주최하는 밋업, 세미나 및 컨퍼런스의 발표 자료들을 모아두는 저장소입니다.
 
+
+
+## Golang Korea MeetUp in Seoul 12월
+
+> [밋업 링크](https://www.meetup.com/ko-KR/Seoul-Go-Meetup/events/257399368/)
+
+| 발표자   | 주제                     | 발표 자료                                                    |
+| -------- | ------------------------ | ------------------------------------------------------------ |
+| 이재용님 | Telegraf 코드 기여해보기 | [Telegraf 코드 기여해보기](slides/201812/contribute-open-source-with-telegraf.pdf) |
+
 ## Golang Korea MeetUp in Seoul 11월
 
 > [밋업 링크](https://www.meetup.com/ko-KR/Seoul-Go-Meetup/events/256560625/)
