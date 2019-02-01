@@ -4,7 +4,17 @@ Golang Korea에서 주최하는 밋업, 세미나 및 컨퍼런스의 발표 자
 
 
 
-## Golang Korea MeetUp in Seoul 12월
+## Golang Korea MeetUp in Seoul 2019.01
+
+> [밋업 링크](https://www.meetup.com/Seoul-Go-Meetup/events/258121678/)
+
+| 발표자   | 주제                        | 발표 자료                                                    | 코드 자료 |
+| -------- | --------------------------- | ------------------------------------------------------------ | -- |
+| 주원영님 | How we use Golang heybeauty | [How we use Golang heybeauty](slides/201901/how-we-golang-heybeauty.pdf) | - |
+| 최흥배님 | Golang 로그 라이브러리 zap  | [고성능 로그 라이브러리 zap 소개](slides/201901/golang-log-library-zap.pdf) | - |
+| 한병일님 | 모듈화와 액터               | [모듈화와 액터](slides/201901/modularization-and-actor.pdf) |[예제](resources/201901/modularization-and-actor) |
+
+## Golang Korea MeetUp in Seoul 2018.12
 
 > [밋업 링크](https://www.meetup.com/ko-KR/Seoul-Go-Meetup/events/257399368/)
 
@@ -12,7 +22,7 @@ Golang Korea에서 주최하는 밋업, 세미나 및 컨퍼런스의 발표 자
 | -------- | ------------------------ | ------------------------------------------------------------ |
 | 이재용님 | Telegraf 코드 기여해보기 | [Telegraf 코드 기여해보기](slides/201812/contribute-open-source-with-telegraf.pdf) |
 
-## Golang Korea MeetUp in Seoul 11월
+## Golang Korea MeetUp in Seoul 2018.11
 
 > [밋업 링크](https://www.meetup.com/ko-KR/Seoul-Go-Meetup/events/256560625/)
 
@@ -22,7 +32,7 @@ Golang Korea에서 주최하는 밋업, 세미나 및 컨퍼런스의 발표 자
 | 이용희님 | Golang으로 제작한 Network Scanner    | [Golang으로 제작한 Network Scanner](slides/201811/make-network-scanner-with-go.pdf) |
 | 온수영님 | Golang으로 로그 적재 시스템 개발하기 | [Golang으로 로그 적재 시스템 개발하기](slides/201811/build-logging-system-with-go.pdf) |
 
-## Golang Korea MeetUp in Seoul 8월
+## Golang Korea MeetUp in Seoul 2018.08
 
 > [밋업 링크](https://www.meetup.com/Seoul-Go-Meetup/events/253672991/)
 
@@ -32,7 +42,7 @@ Golang Korea에서 주최하는 밋업, 세미나 및 컨퍼런스의 발표 자
 | 이흥섭님 | 한글라이즈 재제작기                                          | [Remake of Hangulize](slides/201808/remake-of-hangulize.pdf) |
 | 김효준님 | ab180에서의 Go 도입기                                        | [Golang on Airbridge Airbloc](slides/201808/golang-on-airbridge-airbloc.pdf) |
 
-## Golang Korea MeetUp in Seoul 7월
+## Golang Korea MeetUp in Seoul 2018.07
 
 > [밋업 링크](https://www.meetup.com/Seoul-Go-Meetup/events/252632375)
 
