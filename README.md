@@ -10,7 +10,7 @@ Golang Korea에서 주최하는 밋업, 세미나 및 컨퍼런스의 발표 자
 
 | 발표자   | 주제                        | 발표 자료                                                    | 코드 자료 |
 | -------- | --------------------------- | ------------------------------------------------------------ | -- |
-| 주원영님 | How we use Golang heybeauty | [How we use Golang heybeauty](slides/201901/how-we-golang-heybeauty.pdf) | - |
+| 주원영님 | How we use Golang heybeauty | [How we use Golang heybeauty](slides/201901/how-we-use-golang-in-heybeauty.pdf) | - |
 | 최흥배님 | Golang 로그 라이브러리 zap  | [고성능 로그 라이브러리 zap 소개](slides/201901/golang-log-library-zap.pdf) | - |
 | 한병일님 | 모듈화와 액터               | [모듈화와 액터](slides/201901/modularization-and-actor.pdf) |[예제](resources/201901/modularization-and-actor) |
 
