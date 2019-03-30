@@ -1,2 +1,6 @@
+# ide / editor
+.idea
+.vscode
+
 # Trash
 .DS_Store
