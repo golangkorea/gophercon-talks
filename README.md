@@ -4,6 +4,15 @@ Golang Korea에서 주최하는 밋업, 세미나 및 컨퍼런스의 발표 자
 
 
 
+## Golang Korea Codelab in Seoul 2019.03
+
+> [밋업 링크](https://www.meetup.com/Seoul-Go-Meetup/events/259524407/)
+
+| 발표자   | 주제                               | 발표 자료                                                    | 코드 자료                                             |
+| -------- | ---------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------- |
+| 홍혜종님 | Go 소개 및 실습                    | [Introduction to Go Programming](slides/201903/introduction-to-go-programming.pdf) | [실습 예제](resources/201903/codelab)                 |
+| 권민재님 | Go로 Google OAuth2 로그인 구현하기 | [OAuth2 Codelab](slides/201903/codelab-oauth2.pdf)           | [코드랩 링크](https://github.com/golangkorea/codelab) |
+
 ## Golang Korea MeetUp in Seoul 2019.01
 
 > [밋업 링크](https://www.meetup.com/Seoul-Go-Meetup/events/258121678/)
@@ -50,3 +59,4 @@ Golang Korea에서 주최하는 밋업, 세미나 및 컨퍼런스의 발표 자
 | -------- | ------------------------------------------------------------ | ----------------------------------------------------------------------- |
 | 유승일님 | Bazel for Go                                                 | [Bazel for Go](slides/201807/bazel-for-golang.pdf)                      |
 | 배상익님 | Golang과 웹소켓을 활용한 서버 프로그래밍 (장애 없는 서버 런칭 도전기) | [Golang과 웹소켓을 활용한 서버 프로그래밍](slides/201807/server-programming-with-golang-and-websocket.pdf) |
+
