@@ -2,7 +2,15 @@
 
 Golang Korea에서 주최하는 밋업, 세미나 및 컨퍼런스의 발표 자료들을 모아두는 저장소입니다.
 
+## Golang Korea MeetUp in Seoul 2019.04
 
+> [밋업 링크](https://www.meetup.com/Seoul-Go-Meetup/events/260475211/)
+
+| 발표자   | 주제                                 | 발표 자료                                                    |
+| -------- | ------------------------------------ | ------------------------------------------------------------ |
+| 최흥배님 | 코드로 배우는 TCP Socket 서버 만들기 | [Golang TCP Socket Server](https://docs.google.com/presentation/d/1p6-SI3zWEiA-1LcBFPKALBzr-K_OPEC5Di4X-ykHbos/edit#slide=id.g33148270ac_0_143) |
+| 하원호님 | 고등학생이 Golang으로 코딩하기       | [고등학생이 Golang으로 코딩하기](slides/201904/go-by-high-school-student.pdf) |
+| 신명수님 | Go2 Error Inspection                 | [Go2 Error Values](https://slide.anarcher.dev/2019/go2-error-value/) |
 
 ## Golang Korea Codelab in Seoul 2019.03
 
