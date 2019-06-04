@@ -2,6 +2,16 @@
 
 Golang Korea에서 주최하는 밋업, 세미나 및 컨퍼런스의 발표 자료들을 모아두는 저장소입니다.
 
+## GDG Golang Korea Meetup 2019.05
+
+> [밋업 링크](https://www.meetup.com/GDG-Golang-Korea/events/261344405/)
+
+| 발표자   | 주제                                      | 발표 자료                                                    | 외부 참고 자료                                               |
+| -------- | ----------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 박성재님 | Go로 작성된 Biscuit 운영체제 소개 및 시연 | [Biscuit OS 소개](https://www.slideshare.net/SeongJaePark1/biscuit-an-operating-system-written-in-go) | [고수준 언어로 작성한 커널의 장단점 비교](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_cutler.pdf) |
+| 황선우님 | gin-restful 라이브러리 개발기             | [Gin RESTful 라이브러리 개발기](slides/201905/gin-restful.pdf) | -                                                            |
+| 한성민님 | gRPC 소개 및 goroutine 내부 들여다보기    | [gRPC와 goroutine 톺아보기](slides/201905/grpc-and-goroutine.pdf) | -                                                            |
+
 ## Golang Korea MeetUp in Seoul 2019.04
 
 > [밋업 링크](https://www.meetup.com/Seoul-Go-Meetup/events/260475211/)
