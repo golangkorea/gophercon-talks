@@ -4,7 +4,7 @@ Golang Korea에서 주최하는 밋업, 세미나 및 컨퍼런스의 발표 자
 
 ## GDG Golang Korea Meetup 2019.05
 
-> [밋업 링크](https://www.meetup.com/GDG-Golang-Korea/events/261344405/)
+> [밋업 링크](https://www.meetup.com/GDG-Golang-Korea/events/261344405/), [영상 자료](https://www.youtube.com/watch?v=e-5kCRZhOw8&list=PLxEDm5GRSh4MZDRMnlM1UpvKfKtDuqmd8)
 
 | 발표자   | 주제                                      | 발표 자료                                                    | 외부 참고 자료                                               |
 | -------- | ----------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
