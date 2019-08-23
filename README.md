@@ -2,6 +2,16 @@
 
 Golang Korea에서 주최하는 밋업, 세미나 및 컨퍼런스의 발표 자료들을 모아두는 저장소입니다.
 
+## GDG Golang Korea Go 1.13 Release Party 2019.08
+
+> [밋업 링크](https://www.meetup.com/GDG-Golang-Korea/events/263743219/)
+
+| 발표자   | 주제                                                         | 발표 자료                                                    |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 홍혜종님 | Go 1.13 릴리즈 노트 및 주요 변경사항 소개                    | [Go 1.13 Release Notes](slides/201908/go1.13-release-notes.pdf) |
+| 권민재님 | Go에서 제안된 에러 프로포절들과 Go 1.13에 추가된 에러값 처리 방식 소개 | [The Short History of Error Proposals in Go 2](slides/201908/go-short-history-of-error-proposals-in-go2.pdf) |
+| 김건님   | Go modules에 대한 이론적 배경과 Go 1.13에 들어간 모듈 변경사항 소개 | [Go Modules](slides/201908/go-modules.pdf)                   |
+
 ## GDG Golang Korea Meetup 2019.05
 
 > [밋업 링크](https://www.meetup.com/GDG-Golang-Korea/events/261344405/), [영상 자료](https://www.youtube.com/watch?v=e-5kCRZhOw8&list=PLxEDm5GRSh4MZDRMnlM1UpvKfKtDuqmd8)
