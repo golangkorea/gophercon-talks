@@ -9,7 +9,7 @@ Golang Korea에서 주최하는 밋업, 세미나 및 컨퍼런스의 발표 자
 | 발표자   | 주제                          | 발표 자료                                                    |
 | -------- | ----------------------------- | ------------------------------------------------------------ |
 | 변규현님 | Start serverless with Golang! | [Start serverless with Golang](https://www.slideshare.net/KyuhyunByun1/start-serverless-with-golang) |
-| 박유진님 | Game Programming with Golang  | [Game Programming with Go](https://drive.google.com/file/d/1DPfE87us62vqlWUPJhkCNqZ9eoDC0PAF/view?ts=5e016c7c) |
+| 박유진님 | Game Programming with Golang  | [Game Programming with Go](slides/201912/game-programming-with-golang.pdf) |
 
 ## GDG Golang Korea Go 1.13 Release Party 2019.08
 
