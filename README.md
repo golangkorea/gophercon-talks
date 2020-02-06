@@ -11,6 +11,14 @@ Golang Korea에서 주최하는 밋업, 세미나 및 컨퍼런스의 발표 자
 | 변규현님 | Start serverless with Golang! | [Start serverless with Golang](https://www.slideshare.net/KyuhyunByun1/start-serverless-with-golang) |
 | 박유진님 | Game Programming with Golang  | [Game Programming with Go](slides/201912/game-programming-with-golang.pdf) |
 
+## GDG Golang Korea Meetup 2019.09
+
+> [밋업 링크](https://www.meetup.com/GDG-Golang-Korea/events/264682764/)
+
+| 발표자   | 주제                                                    | 발표 자료                                                    |
+| -------- | ------------------------------------------------------- | ------------------------------------------------------------ |
+| 임찬식님 | 레이싱 드론이 보내주는 실시간 영상 스트리밍 서버 제작기 | [FPV Streaming Server with ffmpeg](slides/201909/fpv-streaming-server-with-ffmpeg.pdf) |
+
 ## GDG Golang Korea Go 1.13 Release Party 2019.08
 
 > [밋업 링크](https://www.meetup.com/GDG-Golang-Korea/events/263743219/)
