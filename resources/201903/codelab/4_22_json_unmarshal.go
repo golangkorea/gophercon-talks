@@ -1,8 +1,8 @@
 package main
 
 import (
-"encoding/json"
-"fmt"
+	"encoding/json"
+	"fmt"
 )
 
 type T struct {

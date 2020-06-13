@@ -1,8 +1,8 @@
 package main
 
 import (
-	t "text/template"
 	h "html/template"
+	t "text/template"
 )
 
 func main() {

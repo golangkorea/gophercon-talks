@@ -19,7 +19,7 @@ func (t *Training) TrainingHero(hero *Hero) {
 }
 
 func (t *Training) Do(level int) int {
-	newLevel := level+1
+	newLevel := level + 1
 	fmt.Printf("Training.Do: oldLevel %d, nowLevel %d \n", level, newLevel)
 	return newLevel
 }

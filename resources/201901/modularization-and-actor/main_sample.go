@@ -1,7 +1,7 @@
 package main
 
 import (
-"sampleactor/samplestruct"
+	"sampleactor/samplestruct"
 )
 
 func main() {

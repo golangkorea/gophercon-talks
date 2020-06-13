@@ -2,9 +2,9 @@ package main
 
 import "fmt"
 
-func main(){
+func main() {
 
-	i := 5   // var i int = 5
+	i := 5 // var i int = 5
 
 	fmt.Println(i)
 }

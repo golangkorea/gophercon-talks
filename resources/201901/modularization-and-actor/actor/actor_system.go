@@ -2,13 +2,13 @@ package actor
 
 import (
 	"context"
+	"fmt"
+	"net/http"
+	"reflect"
+	"runtime"
+	"strings"
 	"sync"
 	"sync/atomic"
-	"fmt"
-	"runtime"
-	"reflect"
-	"strings"
-	"net/http"
 )
 
 type ActorProtocolType uint16
@@ -26,8 +26,8 @@ type Request struct {
 }
 
 type Response struct {
-	Err    			error
-	Results 		[]interface{}
+	Err     error
+	Results []interface{}
 }
 
 var defaultActorSystem *ActorSystem
@@ -37,20 +37,20 @@ func init() {
 }
 
 type ActorSystem struct {
-	mutex              	sync.RWMutex
-	nowActorID         	uint64
-	actorMapByAID       map[*AID]iActor
-	actorMapByNodeName 	map[string]iActor
+	mutex              sync.RWMutex
+	nowActorID         uint64
+	actorMapByAID      map[*AID]iActor
+	actorMapByNodeName map[string]iActor
 
-	server              *http.Server
-	serverCloseFunc     context.CancelFunc
+	server          *http.Server
+	serverCloseFunc context.CancelFunc
 }
 
 func newActorSystem() *ActorSystem {
 	d := &ActorSystem{
-		actorMapByAID:        make(map[*AID]iActor),
-		actorMapByNodeName:   make(map[string]iActor),
-		nowActorID:        	  0,
+		actorMapByAID:      make(map[*AID]iActor),
+		actorMapByNodeName: make(map[string]iActor),
+		nowActorID:         0,
 	}
 	return d
 }
@@ -87,7 +87,7 @@ func (as *ActorSystem) startWebActor(receiver IActorReceiver, nodeName string, a
 
 func (as *ActorSystem) createAID(nodeName string) *AID {
 	id := atomic.AddUint64(&as.nowActorID, 1)
-	return &AID{NodeName:nodeName, ActorID:id}
+	return &AID{NodeName: nodeName, ActorID: id}
 }
 
 func (as *ActorSystem) getActorByAIDWithLock(aid *AID) (iActor, error) {
@@ -114,8 +114,7 @@ func (d *ActorSystem) getActorByNodeNameWithLock(nodeName string) (iActor, error
 
 func (as *ActorSystem) createRequest(ac iActor, function interface{}, args ...interface{}) *Request {
 
-
-	req := &Request{NodeName:ac.GetNodeName()}
+	req := &Request{NodeName: ac.GetNodeName()}
 
 	v := reflect.ValueOf(function)
 	if v.Kind() == reflect.Func {

@@ -2,9 +2,9 @@ package main
 
 import "fmt"
 
-func Something(){
-	defer func(){
-		if r :=recover(); r != nil {
+func Something() {
+	defer func() {
+		if r := recover(); r != nil {
 			fmt.Println(r)
 		}
 	}()
@@ -12,9 +12,8 @@ func Something(){
 	panic("Error!!")
 }
 
-func main(){
+func main() {
 	Something()
 
 	fmt.Println("Hello World.")
 }
-

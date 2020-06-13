@@ -12,7 +12,7 @@ type T struct {
 }
 
 func main() {
-	t := T{1, 0,  3}
+	t := T{1, 0, 3}
 	b, err := json.Marshal(t)
 	if err != nil {
 		panic(err)

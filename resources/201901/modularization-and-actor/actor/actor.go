@@ -1,9 +1,9 @@
 package actor
 
 import (
+	"container/list"
 	"fmt"
 	"reflect"
-	"container/list"
 )
 
 type AID struct {
@@ -15,9 +15,7 @@ func (a *AID) String() string {
 	return fmt.Sprintf("<%d, %s>", a.ActorID, a.NodeName)
 }
 
-
 type IActorReceiver interface {
-
 	GetNodeName() string
 }
 
@@ -34,10 +32,10 @@ var _ IActorReceiver = &Actor{}
 var _ iActor = &Actor{}
 
 type Actor struct {
-	aid       		*AID
-	receiver 	    reflect.Value
-	queue		    *list.List
-	inChan    		chan *ActorCall
+	aid      *AID
+	receiver reflect.Value
+	queue    *list.List
+	inChan   chan *ActorCall
 }
 
 func (a *Actor) start(receiver IActorReceiver, aid *AID) bool {
@@ -70,7 +68,6 @@ func (a *Actor) loop() {
 	}
 }
 
-
 func (a *Actor) GetNodeName() string {
 	return a.aid.NodeName
 }
@@ -94,8 +91,7 @@ func (a *Actor) process(actorCall *ActorCall) {
 	}
 }
 
-
-func (a *Actor) makeActorCall(done chan *ActorCall , function interface{}, args ...interface{}) *ActorCall {
+func (a *Actor) makeActorCall(done chan *ActorCall, function interface{}, args ...interface{}) *ActorCall {
 
 	v := reflect.ValueOf(function)
 	if v.Kind() != reflect.Func {
@@ -110,7 +106,7 @@ func (a *Actor) makeActorCall(done chan *ActorCall , function interface{}, args 
 		valuedArgs[i+1] = reflect.ValueOf(x)
 	}
 
-	return &ActorCall{Function:v, Args:valuedArgs, Done:done}
+	return &ActorCall{Function: v, Args: valuedArgs, Done: done}
 
 }
 

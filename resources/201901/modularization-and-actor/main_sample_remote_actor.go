@@ -1,8 +1,8 @@
 package main
 
 import (
-	"sampleactor/actor"
 	"context"
+	"sampleactor/actor"
 	"sampleactor/samplestruct"
 )
 
@@ -10,7 +10,7 @@ func main() {
 
 	ctxMain, _ := context.WithCancel(context.Background())
 
-	actor.StartWebServer(ctxMain,"9999")
+	actor.StartWebServer(ctxMain, "9999")
 
 	training := samplestruct.NewTraining("Training")
 

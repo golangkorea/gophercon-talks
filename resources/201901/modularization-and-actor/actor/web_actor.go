@@ -3,8 +3,8 @@ package actor
 import (
 	"bytes"
 	"encoding/gob"
-	"net/http"
 	"fmt"
+	"net/http"
 	"reflect"
 )
 
@@ -12,21 +12,19 @@ var _ IActorReceiver = &Actor{}
 var _ iActor = &Actor{}
 
 type WebActor struct {
-	aid       		*AID
-	receiver 	    reflect.Value
-	shutdownCh 		chan bool
+	aid        *AID
+	receiver   reflect.Value
+	shutdownCh chan bool
 
-	address		string
-	client 		*http.Client
+	address string
+	client  *http.Client
 }
-
 
 func (a *WebActor) start(receiver IActorReceiver, aid *AID) bool {
 	a.aid = aid
 	a.receiver = reflect.ValueOf(receiver)
 	return true
 }
-
 
 func (a *WebActor) GetNodeName() string {
 	return a.aid.NodeName

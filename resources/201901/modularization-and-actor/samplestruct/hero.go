@@ -3,15 +3,15 @@ package samplestruct
 import "fmt"
 
 type Hero struct {
-	id    int
-	level int
+	id       int
+	level    int
 	nodeName string
 }
 
 func NewHero(id int, level int, nodeName string) *Hero {
 	return &Hero{
-		id: id,
-		level: level,
+		id:       id,
+		level:    level,
 		nodeName: nodeName,
 	}
 }
