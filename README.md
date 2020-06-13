@@ -2,6 +2,15 @@
 
 Golang Korea에서 주최하는 밋업, 세미나 및 컨퍼런스의 발표 자료들을 모아두는 저장소입니다.
 
+## GDG Golang Korea Online Meetup 2020.05
+
+> [밋업 링크](https://www.meetup.com/GDG-Golang-Korea/events/270858274/)
+
+| 발표자   | 주제                                                         | 발표 자료                                                    | 영상 자료                                              |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------ |
+| 이현우님 | Go와 Python의 이점을 모두 누릴 수 있는 마이크로 서비스 아키텍처 | [Microservice Architecture with Go and Python](slides/202005/microservice-architecture-with-go-and-python.pdf) | [YouTube](https://www.youtube.com/watch?v=8CYYw7tz8C4) |
+| 이호민님 | 가정용 버스 전광판 만들어 본 썰                              | [Build Home Bus Information Terminal with Go](slides/202005/build-home-bus-information-terminal-with-go.pdf) | [YouTube](https://www.youtube.com/watch?v=qmpQMYOffRY) |
+
 ## GDG Golang Korea Meetup 2019.12
 
 > [밋업 링크](https://www.meetup.com/ko-KR/GDG-Golang-Korea/events/266888022)
