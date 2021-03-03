@@ -2,6 +2,14 @@
 
 Golang Korea에서 주최하는 밋업, 세미나 및 컨퍼런스의 발표 자료들을 모아두는 저장소입니다.
 
+## GDG Golang Korea 1.16 Release Party
+
+> [밋업 링크](https://gdg.community.dev/events/details/google-gdg-golang-korea-presents-golang-116-release-party-virtual/)
+
+| 발표자   | 주제                                                         | 발표 자료                                                    |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 김형준님 | Go generic 왜 없었고, 왜 생겼고, 무엇이 달라질까? | [Go generic Why wasn't it, why did it happen, and what would be different?](slides/202102/go-generic-why-wasn't-it-why-did-it-make-what-is-the-different.pdf) |
+
 ## GDG Golang Korea Online Meetup 2020.05
 
 > [밋업 링크](https://www.meetup.com/GDG-Golang-Korea/events/270858274/)
