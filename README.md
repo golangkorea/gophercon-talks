@@ -2,6 +2,14 @@
 
 Golang Korea에서 주최하는 밋업, 세미나 및 컨퍼런스의 발표 자료들을 모아두는 저장소입니다.
 
+## GDG Golang Korea Year End Party 2021
+
+> [밋업 링크](https://gdg.community.dev/events/details/google-gdg-golang-korea-presents-gdg-golang-korea-year-end-2021/)
+
+| 발표자   | 주제                                                         | 발표 자료                                                    |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 한성민님 | Golang Korea Year End Party 2021 | [Golang Korea Year End Party 2021](slides/202112/golang-korea-2021-year-end-party.pdf) |
+
 ## GDG Golang Korea Online Meetup 2021.05
 
 > [밋업 링크](https://gdg.community.dev/events/details/google-gdg-golang-korea-presents-gdg-golang-korea-5weol-miseob-1/)
