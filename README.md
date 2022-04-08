@@ -2,6 +2,16 @@
 
 Golang Korea에서 주최하는 밋업, 세미나 및 컨퍼런스의 발표 자료들을 모아두는 저장소입니다.
 
+
+## GDG Golang 1.18 Release Party
+
+> [밋업 링크](https://gdg.community.dev/events/details/google-gdg-golang-korea-presents-golang-118-release-party/)
+
+| 발표자   | 주제                                                         | 발표 자료                                                    |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 박현상님 | Go와 FFmpeg을 이용한 영상 처리 및 AWS S3 활용하기 | [Go와 FFmpeg을 이용한 영상 처리 및 AWS S3 활용하기](slides/202203/video-processing-with-go-and-ffmepg-and-aws-s3.pptx) |
+| 공봉식님 | Go Generic으로 만들어본 ECS 시스템 | [Go Generic으로 만들어본 ECS 시스템](slides/202203/make-ecs-system-with-go-generic.pptx) |
+
 ## GDG Golang Korea Year End Party 2021
 
 > [밋업 링크](https://gdg.community.dev/events/details/google-gdg-golang-korea-presents-gdg-golang-korea-year-end-2021/)
