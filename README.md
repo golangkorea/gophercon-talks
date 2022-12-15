@@ -3,6 +3,16 @@
 Golang Korea에서 주최하는 밋업, 세미나 및 컨퍼런스의 발표 자료들을 모아두는 저장소입니다.
 
 
+## DevFest 2022 Golang Korea
+
+> [밋업 링크](https://gdg.community.dev/events/details/google-gdg-golang-korea-presents-devfest-2022-golang-korea/)
+
+| 발표자   | 주제                                                         | 발표 자료                                                    |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 장창서님 | Go vs Rust | [Go vs Rust](slides/202212/go-vs-rust.pdf) |
+| 김건님 | Cgo to Go: Go로 columnar storage engine 개발하기 | [Cgo to Go - Building columnar storage engine in Go](slides/202212/cgo-to-go_building-columnar-storage-engine-in-go.pdf) |
+
+
 ## GDG Golang 1.18 Release Party
 
 > [밋업 링크](https://gdg.community.dev/events/details/google-gdg-golang-korea-presents-golang-118-release-party/)
