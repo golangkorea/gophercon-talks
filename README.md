@@ -3,6 +3,17 @@
 Golang Korea에서 주최하는 밋업, 세미나 및 컨퍼런스의 발표 자료들을 모아두는 저장소입니다.
 
 
+## CloudCon in Go
+
+> [밋업 링크](https://gdg.community.dev/events/details/google-gdg-golang-korea-presents-cloudcon-in-go/)
+
+| 발표자   | 주제                                                         | 발표 자료                                                    |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 이강민님 | "한밤의 늑대인간" 프로젝트: Go로 디스코드 봇 만들기 | [Go와 동시성, 기다림 없이 한밤의 늑대인간을](slides/202303/developing-one-night-ultimate-werewolf-discord-bot-with-go.pdf) |
+| 신영민님 | Golang Migration을 통해 광고 링크 서버 성능 30배 개선한 이야기 | [Python -> Go Migration으로 TPS 30배 개선하기](slides/202303/improving-ad-server-performance-30x-faster-with-go.pdf) |
+| 김효민님 | golang으로 multi account/project에 있는 aws/gcp 리소스 메타데이터를 효율적으로 다뤄볼 수 있는 방법 | [golang으로 multi account/project에 있는 aws/gcp 리소스 메타데이터를 효율적으로 다뤄볼 수 있는 방법](slides/202303/how-to-efficiently-get-awsgcp-resources-metadata-in-multi-account-project-with-golang.pdf) |
+
+
 ## DevFest 2022 Golang Korea
 
 > [밋업 링크](https://gdg.community.dev/events/details/google-gdg-golang-korea-presents-devfest-2022-golang-korea/)
