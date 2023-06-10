@@ -2,6 +2,20 @@
 
 Golang Korea에서 주최하는 밋업, 세미나 및 컨퍼런스의 발표 자료들을 모아두는 저장소입니다.
 
+## Go to Busan 2023
+
+> [밋업 링크](https://gdg.community.dev/events/details/google-gdg-golang-korea-presents-go-to-busan-2023/)
+
+| 발표자   | 주제                                                         | 발표 자료                                                    |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 최가인님 | 소프트웨어 개발 여정의 KICK | [소프트웨어 개발 여정의 KICK](slides/202306/Go%20to%20Busan%202023%20-%20소프트웨어%20개발%20여정의%20KICK%20-%20최가인.pdf) |
+| 박제창님 | Go with Flutter | [Go with Flutter](slides/202306/Go%20to%20Busan%202023%20-%20Go%20with%20Flutter%20-%20박제창.pdf) |
+| 김건님 | Go로 사용자 행동 데이터 분석하기 | [Go로 사용자 행동 데이터 분석하기](slides/202306/Go%20to%20Busan%202023%20-%20Go로%20사용자%20행동%20데이터%20분석하기%20-%20김건.pdf) |
+|정예준| Go로 시작하는 CI CD 입문 |
+|박진형| Hey SNARKs 👋 You Had me at Go|
+|박현상| 스타트업에서 Go언어 개발자로 살아남기 |
+|백경준| 개발 및 운영을 위한 Golang 기반 CLI 라이브러리 |
+|한성민| Go와 GPT/PaLM2로 슬랙 메시지 감정분류 해보기|
 
 ## CloudCon in Go
 
