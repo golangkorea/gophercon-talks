@@ -15,7 +15,7 @@ Golang Korea에서 주최하는 밋업, 세미나 및 컨퍼런스의 발표 자
 |박진형 님| Hey SNARKs 👋 You Had me at Go | [Hey SNARKs 👋 You Had me at Go](slides/202306/Go%20to%20Busan%202023%20-%20Hey%20SNARKs%20👋%20You%20Had%20me%20at%20Go%20-%20박진형.pdf) |
 |박현상 님| 스타트업에서 Go언어 개발자로 살아남기 | [스타트업에서 Go언어 개발자로 살아남기](slides/202306/Go%20to%20Busan%202023%20-%20스타트업에서%20Go언어%20개발자로%20살아남기%20-%20박현상.pdf) |
 |백경준 님| 개발 및 운영을 위한 Golang 기반 CLI 라이브러리 | [개발 및 운영을 위한 Golang 기반 CLI 라이브러리](slides/202306/Go%20to%20Busan%202023%20-%20개발%20및%20운영을%20위한%20Golang%20기반%20CLI%20라이브러리%20-%20백경준.pdf) |
-|한성민 님| Go와 GPT/PaLM2로 슬랙 메시지 감정분류 해보기 | [Go와 GPT/PaLM2로 슬랙 메시지 감정분류 해보기](slides/202306/Go%20to%20Busan%202023%20-%20Go와%20GPT%20_%20PaLM2로%20슬랙%20메시지%20감정분류%20해보기%20-%20한성민.pdf) |
+|한성민 님| Go와 GPT/PaLM2로 슬랙 메시지 감정분류 해보기 | [Go와 GPT/PaLM2로 슬랙 메시지 감정분류 해보기](slides/202306/Go%20to%20Busan%202023%20-%20Go와%20GPT_PaLM2로%20슬랙%20메시지%20감정분류%20해보기%20-%20한성민.pdf) |
 
 ## CloudCon in Go
 
