@@ -2,6 +2,17 @@
 
 Golang Korea에서 주최하는 밋업, 세미나 및 컨퍼런스의 발표 자료들을 모아두는 저장소입니다.
 
+## Google I/O Extended Golang Korea 2024
+
+> [밋업 링크](https://gdg.community.dev/events/details/google-gdg-golang-korea-presents-google-io-extended-golang-korea/)
+
+| 발표자   | 주제                                                         | 발표 자료                                                    |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 정현서 님 | "프로필 기반 최적화로 Go 애플리케이션의 성능 향상" 세션 살펴보기 | ["프로필 기반 최적화로 Go 애플리케이션의 성능 향상" 세션 살펴보기](slides/202406/Google%20IO%20Extended%202024%20-%20Go%20App%20Profile%20Optimization%20-%20정현서.pdf) |
+| 한성민 님 | 마운틴 뷰에서의 Google I/O 2024 생생했던 현장 이야기 | [마운틴 뷰에서의 Google I/O 2024 생생했던 현장 이야기](slides/202406/Google%20IO%20Extended%20Golang%20Korea%202024%20-%20마운틴%20뷰에서의%20Google%20I:O%202024%20생생했던%20현장%20이야기%20-%20한성민.pdf) |
+| Miriah Peterson 님 | Go's Readers and Writers - the engine behind every web serivce | [Go's Readers and Writers - the engine behind every web serivce](slides/202406/Google%20IO%20Extended%20Golang%20Korea%202024%20-%20Go's%20Readers%20and%20Writers%20-%20the%20engine%20behind%20every%20web%20serivce%20-%20Miriah%20Peterson.pdf) |
+| Suvaditya Mukherjee 님 | Using Gemini and Gemma to accelerate your Golang Application-building Experience | [Using Gemini and Gemma to accelerate your Golang Application-building Experience](slides/202406/Google%20IO%20Extended%20Golang%20Korea%202024%20-%20Using%20Gemini%20and%20Gemma%20to%20accelerate%20your%20Golang%20Application-building%20Experience%20-%20Suvaditya%20Mukherjee.pdf) |
+
 ## Go to Busan 2023
 
 > [밋업 링크](https://gdg.community.dev/events/details/google-gdg-golang-korea-presents-go-to-busan-2023/)
