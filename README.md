@@ -2,6 +2,17 @@
 
 Golang Korea에서 주최하는 밋업, 세미나 및 컨퍼런스의 발표 자료들을 모아두는 저장소입니다.
 
+## Go to Jeju 2024
+
+> [밋업 링크](https://gdg.community.dev/events/details/google-gdg-golang-korea-presents-go-to-jeju-2024/)
+
+| 발표자   | 주제                                                         | 발표 자료                                                    |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 이준호 님 | Firebase and Go | [Firebase and Go](slides/202407/Go%20to%20Jeju%20Golang%20Firebase.pdf) |
+| 정현서 님 | LLM과 함께하는 가상 연애 도전기(feat. 나만의 에이전트 시작하기) | [LLM과 함께하는 가상 연애 도전기(feat. 나만의 에이전트 시작하기)](slides/202407/Go%20To%20Jeju%20가상연애%20도전기.pdf) |
+| 정겨울 님 | Deterministic testing in Go | [Deterministic testing in Go](slides/202407/Go%20Deterministic%20Testing.pdf) |
+| 한우석 님 | Node.js와 Go의 멀티스레드 환경 | [Node.js와 Go의 멀티스레드 환경](slides/202407/Node.js와%20Go의%20멀티쓰레딩%20환경.pdf) |
+
 ## Google I/O Extended Golang Korea 2024
 
 > [밋업 링크](https://gdg.community.dev/events/details/google-gdg-golang-korea-presents-google-io-extended-golang-korea/)
