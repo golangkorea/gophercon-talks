@@ -18,6 +18,7 @@ Golang Korea에서 주최하는 밋업, 세미나 및 컨퍼런스의 발표 자
 | 최정민 님     | Programming Gin Monitoring Service                      | [Programming Gin Monitoring Service](slides/202410/GopherCon%20Korea%202024_최정민.pdf)                                                                                   |
 | 곽웅휘 님     | Go 서버 아키텍쳐 만들기, 근데 리브랜딩을 곁들인         | [Go 서버 아키텍쳐 만들기, 근데 리브랜딩을 곁들인](slides/202410/GopherCon%20Korea_챌린저스.pptx.pdf)                                                                      |
 | 임찬식 님     | 쿠버네티스 플랫폼 프로그래밍                            | [쿠버네티스 플랫폼 프로그래밍](slides/202410/GopherConKorea2024-임찬식-쿠버네티스-플랫폼-프로그래밍.pdf)                                                                  |
+| 손석호 님     | Cloud-Barista Multi-Cloud Open Source in Go (for AI)    | [Cloud-Barista Multi-Cloud Open Source in Go (for AI)](https://golang-kr.notion.site/d7ca9985f510433fab009d5dc54c0665?v=d554eeb76687430cbe1354497f0c78a4)                 |
 | Sigrid Jin 님 | Building a seamless RAGOps Systems Like A Pro           | [Building a seamless RAGOps Systems Like A Pro](slides/202410/Building%20a%20seamless%20RAGOps%20Systems%20Like%20A%20Pro.pdf)                                            |
 
 ## Go to Jeju 2024
